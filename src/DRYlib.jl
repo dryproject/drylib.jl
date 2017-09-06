@@ -1,6 +1,6 @@
 # This is free and unencumbered software released into the public domain.
 
-module DRY
+module DRYlib
 
 ################################################################################
 # Type Definitions
@@ -73,6 +73,6 @@ const Word128 = Core.UInt128
 
 ################################################################################
 
-end # module DRY
+end # module DRYlib
 
 #println("OK") # julia drylib.jl
