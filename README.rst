@@ -16,5 +16,9 @@ Installation
 Usage
 =====
 
+::
+
+   using DRY
+
 Reference
 =========
