@@ -2,4 +2,4 @@ using DRYlib
 using Base.Test
 
 # write your own tests here
-@test 1 == 2
+@test 6 * 7 == 42
