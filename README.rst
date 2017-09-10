@@ -14,6 +14,11 @@ DRYlib for Julia
 
 http://drylib.org
 
+Prerequisites
+=============
+
+* Julia 0.6+
+
 Features
 ========
 
@@ -23,12 +28,17 @@ Caveats
 Installation
 ============
 
+::
+
+   julia> Pkg.clone("https://github.com/dryproject/DRYlib.jl.git")
+
 Usage
 =====
 
 ::
 
-   using DRY
+   julia> using DRYlib
+   julia> const DRY = DRYlib
 
 Reference
 =========
